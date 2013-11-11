@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>fn ($1) -> $1$0 end</string>
+	<string>import $0</string>
 	<key>name</key>
-	<string>anon-fn-1</string>
+	<string>import</string>
 	<key>scope</key>
 	<string>source.elixir</string>
 	<key>tabTrigger</key>
-	<string>fn</string>
+	<string>im</string>
 	<key>uuid</key>
-	<string>10FCDA27-259C-4B76-8F3A-4D2B4EBC6654</string>
+	<string>4450EEE5-2AE0-42F3-BA61-0FA72594B4E9</string>
 </dict>
 </plist>

@@ -3,14 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>fn ($1) -> $1$0 end</string>
+	<string>if $1 do 
+	$2
+else
+	$0
+end</string>
 	<key>name</key>
-	<string>anon-fn-1</string>
+	<string>if-do-else-end</string>
 	<key>scope</key>
 	<string>source.elixir</string>
 	<key>tabTrigger</key>
-	<string>fn</string>
+	<string>if</string>
 	<key>uuid</key>
-	<string>10FCDA27-259C-4B76-8F3A-4D2B4EBC6654</string>
+	<string>0121E75A-FE56-409B-9DFE-01DC38CCE7D1</string>
 </dict>
 </plist>
