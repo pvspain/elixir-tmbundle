@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@moduledoc """
-$0
-"""</string>
+	<string>def $1 when $2, do: $0</string>
 	<key>name</key>
-	<string>moduledoc</string>
+	<string>def-when-do:</string>
+	<key>scope</key>
+	<string>source.elixir</string>
 	<key>tabTrigger</key>
-	<string>mdc</string>
+	<string>dwd:</string>
 	<key>uuid</key>
-	<string>F0413B1A-CDD9-4425-BA63-09BE5CF37CBC</string>
+	<string>D5BD641F-F101-40DF-845A-D7C578094E62</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@moduledoc """
-$0
-"""</string>
+	<string>defp $1 do:	$0</string>
 	<key>name</key>
-	<string>moduledoc</string>
+	<string>defp-do:</string>
+	<key>scope</key>
+	<string>source.elixir</string>
 	<key>tabTrigger</key>
-	<string>mdc</string>
+	<string>dp:</string>
 	<key>uuid</key>
-	<string>F0413B1A-CDD9-4425-BA63-09BE5CF37CBC</string>
+	<string>0B030B5F-3F81-4FCB-98B0-7D406012BE45</string>
 </dict>
 </plist>

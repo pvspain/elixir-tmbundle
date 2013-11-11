@@ -11,7 +11,7 @@ $0
 	<key>scope</key>
 	<string>source.elixir</string>
 	<key>tabTrigger</key>
-	<string>doc</string>
+	<string>dc</string>
 	<key>uuid</key>
 	<string>79481DC6-D14E-4FFD-B4AC-1680139047B3</string>
 </dict>

@@ -7,11 +7,11 @@
 	$0
 end</string>
 	<key>name</key>
-	<string>defp</string>
+	<string>defp-do-end</string>
 	<key>scope</key>
 	<string>source.elixir</string>
 	<key>tabTrigger</key>
-	<string>defp</string>
+	<string>dp</string>
 	<key>uuid</key>
 	<string>22297559-5C12-4EDC-913B-423C1E1740D8</string>
 </dict>
