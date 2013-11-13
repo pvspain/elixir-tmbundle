@@ -55,6 +55,20 @@ Press _Tab_ to move between text-entry-points inside the injected text, or press
     cond do-end         cd{Tab}
     arrow               ->{Tab}
 
+### Tests
+
+    Snippet             Trigger keystrokes
+    --------------------------------------
+    test-do-end         td{Tab}
+
+### List comprehensions
+
+    Snippet             Trigger keystrokes
+    --------------------------------------
+    lc-inlist-do-end     ll{Tab}
+    lc-inlist-do:        ll:{Tab}
+    lc-inbits-do:        lb:{Tab}     
+
 ### Documentation
 
     Snippet             Trigger keystrokes

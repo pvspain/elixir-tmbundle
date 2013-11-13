@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>lc &lt;&lt;$1&gt;&gt; inbits &lt;&lt;$2&gt;&gt;, do: $0</string>
+	<key>name</key>
+	<string>lc-inbits-do:</string>
+	<key>scope</key>
+	<string>source.elixir</string>
+	<key>tabTrigger</key>
+	<string>lb:</string>
+	<key>uuid</key>
+	<string>2669F9FF-8170-4757-865A-7996ED2491D2</string>
+</dict>
+</plist>
+
